@@ -24,7 +24,7 @@ def cvp_analysis(fixed_costs, price_per_unit, variable_cost_per_unit, target_pro
 # --- Example Usage ---
 fixed_costs = 10000          # Total Fixed Costs
 price = 50                   # Selling Price per Unit
-variable_cost = 30           # Variable Cost per Unit
+variable_cost = 30          
 desired_profit = 5000        # Target Profit
 
 results = cvp_analysis(fixed_costs, price, variable_cost, desired_profit)
