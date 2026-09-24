@@ -11,3 +11,4 @@ Traceback (most recent call last):
   File "<pyshell#5>", line 1, in <module>
     sum=add(list1)
 NameError: name 'add' is not defined
+//code
