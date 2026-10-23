@@ -13,3 +13,4 @@ class Solution:
             return total_sum, total_cnt
         dfs(root)
         return self.ans
+//hi
