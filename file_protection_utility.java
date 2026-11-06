@@ -22,7 +22,7 @@ public class FileProtectionUtility {
         }
     }
 
-    // Restore file by decoding content
+    // Restore file by decoding contents 
     public static void restoreFile(String protectedFile, String restoredFile) {
         try {
             String encodedContent =
