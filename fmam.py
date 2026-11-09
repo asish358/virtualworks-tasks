@@ -38,7 +38,7 @@ class Solution:
             previous_node = current_node
             current_node = current_node.next
 
-        # If at least two critical points were found
+        # If at least two critical points were fou
         if min_distance != float("inf"):
             max_distance = previous_critical_index - first_critical_index
             result = [min_distance, max_distance]
